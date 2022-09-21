@@ -7,10 +7,15 @@
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
  * Variables
+ * almacena un valor de algo, para luego utilizarlo 
  * Strings
+ * son bloques de texto, siempre utilizandolos entrecomillas 
  * Funciones (argumentos, `return`)
+ * la funcion siempre comienza con una palabra clave como function, esto indica que lo que se va a declara es una funcion y se debe tratar como tal una funcion, luego viene le nombre de la funcion y finalizando con una par de parentesis y unos corchetes 
  * Declaraciones `if`
+ * nos permite introducir una situación que debe ser verdadera para que una acción suceda
  * Valores booleanos (`true`, `false`)
+ * verificamos si la declaracion es true (22>18), lo es, por lo que devolveremos true, y la funcion se detendra, si no es asi omitira ese codigo y la funcion devolvera false 
 
 2. Instalar Node y NPM. NPM se incluye con Node. <https://nodejs.org/en/download/>
 
